@@ -19,4 +19,4 @@ Implementation of the circular progress bar used in Apple Watch so that it can b
 
 
 <hr>
-![WatchProgressScreenRecording](https://github.com/siseongahn/WatchProgressView/assets/18156569/769b5b14-6f44-46a7-8cef-f03f8251c39e)
+<img width = "300px" src="https://github.com/siseongahn/WatchProgressView/assets/18156569/769b5b14-6f44-46a7-8cef-f03f8251c39e.gif">
