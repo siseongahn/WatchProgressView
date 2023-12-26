@@ -16,3 +16,7 @@ Implementation of the circular progress bar used in Apple Watch so that it can b
         self.watchProgressView.percentBold = true
 
         self.watchProgressView.value = slider.value
+
+
+<hr>
+![WatchProgressScreenRecording](https://github.com/siseongahn/WatchProgressView/assets/18156569/769b5b14-6f44-46a7-8cef-f03f8251c39e)
